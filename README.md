@@ -19,6 +19,10 @@ We added a glitched cursor <br />
 We added a click system <br />
 <p align="center"><img src="Screenshots/GUI3.0.png"></p>
 
+### 🌟 MitochondrionOS 3.1
+Added MitochondrionOS 1.0/2.0 labels, folder system icon back, changed wallpaper, changed taskbar color (yes)<br />
+<p align="center"><img src="Screenshots/GUI3.1.png"></p>
+
 ## HOW TO USE
 B: close programs
 N: notepad
