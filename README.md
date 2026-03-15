@@ -28,4 +28,4 @@ B: close programs
 N: notepad
 C: Prompt comand
 M: Start menu
-Click in 'START' text to open Start Menu too
+(Click in 'START' text to open Start Menu too)
