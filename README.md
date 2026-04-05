@@ -23,7 +23,7 @@ We added a click system <br />
 Added MitochondrionOS 1.0/2.0 labels, folder system icon back, changed wallpaper, changed taskbar color (yes)<br />
 <p align="center"><img src="Screenshots/GUI3.1.png"></p>
 
-### 🌟 MitochondrionOS 3.1
+### 🌟 MitochondrionOS 3.2
 Added a about window and reboot/shutdown systems<br />
 <p align="center"><img src="Screenshots/about.png"></p>
 
