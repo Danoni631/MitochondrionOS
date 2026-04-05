@@ -28,4 +28,7 @@ B: close programs
 N: notepad
 C: Prompt comand
 M: Start menu
+R: reboot machine
+P: shutdown computer
+A: open a fetch
 (Click in 'START' text to open Start Menu too)
