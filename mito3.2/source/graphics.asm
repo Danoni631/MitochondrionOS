@@ -1,3 +1,5 @@
+; UNUSED UNUSED
+
 vgaprint:
     pusha
 
