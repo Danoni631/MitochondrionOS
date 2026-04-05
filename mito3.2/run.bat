@@ -1,0 +1,1 @@
+qemu-system-i386 -drive format=raw,file="MitochondrionOS-3.2.img"
